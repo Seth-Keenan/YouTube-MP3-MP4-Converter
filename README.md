@@ -27,7 +27,7 @@ The converter allows you to download YouTube videos in either MP3 or MP4 format,
     pip install -r requirements.txt
    ```
 
-#Usage
+# Usage
 Run the Script:
   ```bash
       git clone https://github.com/Seth-Keenan/your-youtube-converter.git
@@ -43,7 +43,7 @@ Conversion Progress:
 
 Once completed, the converted file will be available in the specified output directory.
 
-#Dependencies:
+# Dependencies:
 SSL: Used for secure connections when making requests to the YouTube API.
 Requests: Handles HTTP requests for fetching YouTube video information.
 Pytube: A library for downloading YouTube videos.
@@ -55,4 +55,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 Disclaimer:
 This tool is meant for personal use only. Respect copyright and intellectual property rights when using this converter. The developer is not responsible for any misuse of the tool.
 
-#Happy converting! 🎉
+# Happy converting! 🎉
