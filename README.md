@@ -45,8 +45,11 @@ Once completed, the converted file will be available in the specified output dir
 
 # Dependencies:
 SSL: Used for secure connections when making requests to the YouTube API.
+
 Requests: Handles HTTP requests for fetching YouTube video information.
+
 Pytube: A library for downloading YouTube videos.
+
 Pillow: Used for image processing, particularly for extracting video thumbnails.
 
 Contributing:
