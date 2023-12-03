@@ -1,50 +1,58 @@
-YouTube to MP3/MP4 Converter
-Overview
-This simple YouTube to MP3/MP4 converter is a Python script that utilizes the following libraries:
+# YouTube to MP3/MP4 Converter
 
-Demonstration Video:
+## Overview
+
+Video Demo:
 https://youtu.be/3FbhAXLHocc
 
-SSL
-Requests
-Pytube
-Pillow
+This simple YouTube to MP3/MP4 converter is a Python script that utilizes the following libraries:
+
+- **SSL**
+- **Requests**
+- **Pytube**
+- **Pillow**
+
 The converter allows you to download YouTube videos in either MP3 or MP4 format, providing a convenient way to enjoy your favorite content offline.
 
-Installation
-Clone the Repository:
+## Installation
 
-git clone https://github.com/your-username/your-youtube-converter.git
-cd your-youtube-converter
-Install Dependencies:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-youtube-converter.git
+   cd your-youtube-converter
+   ```
 
-pip install -r requirements.txt
-Usage
+2. **Install Dependencies:**
+   ```bash
+    pip install -r requirements.txt
+   ```
+
+#Usage
 Run the Script:
-
-python converter.py
+  ```bash
+      git clone https://github.com/Seth-Keenan/your-youtube-converter.git
+      cd your-youtube-converter.py
+  ```
 Follow the Prompts:
 
-Enter the YouTube video URL.
-Choose between MP3 or MP4 conversion.
-Specify the output directory.
+1. Enter the YouTube video URL.
+2. Choose between MP3 or MP4 conversion.
+3. Specify the output directory.
+
 Conversion Progress:
 
 Once completed, the converted file will be available in the specified output directory.
-Dependencies
 
+#Dependencies:
 SSL: Used for secure connections when making requests to the YouTube API.
-
 Requests: Handles HTTP requests for fetching YouTube video information.
-
 Pytube: A library for downloading YouTube videos.
-
 Pillow: Used for image processing, particularly for extracting video thumbnails.
 
-Contributing
+Contributing:
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-Disclaimer
+Disclaimer:
 This tool is meant for personal use only. Respect copyright and intellectual property rights when using this converter. The developer is not responsible for any misuse of the tool.
 
-Happy converting! 🎉
+#Happy converting! 🎉
