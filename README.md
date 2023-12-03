@@ -15,8 +15,8 @@ The converter allows you to download YouTube videos in either MP3 or MP4 format,
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-youtube-converter.git
-   cd your-youtube-converter
+   git clone https://github.com/Seth-Keenan/YouTube-MP3-MP4-Converter.git
+   cd YouTube-MP3-MP4-Converter
    ```
 
 2. **Install Dependencies:**
