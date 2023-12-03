@@ -52,10 +52,10 @@ Pytube: A library for downloading YouTube videos.
 
 Pillow: Used for image processing, particularly for extracting video thumbnails.
 
-Contributing:
+<ins>Contributing</ins>:
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-Disclaimer:
+<ins>Disclaimer</ins>:
 This tool is meant for personal use only. Respect copyright and intellectual property rights when using this converter. The developer is not responsible for any misuse of the tool.
 
 # Happy converting! 🎉
