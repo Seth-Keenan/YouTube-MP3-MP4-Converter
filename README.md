@@ -2,9 +2,6 @@
 
 ## Overview
 
-Video Demo:
-https://youtu.be/3FbhAXLHocc
-
 This simple YouTube to MP3/MP4 converter is a Python script that utilizes the following libraries:
 
 - **SSL**
