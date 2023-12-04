@@ -1,11 +1,12 @@
-# YouTube to MP3/MP4 Converter
+#YouTube to MP3/MP4 Converter
 
 ## Overview
 
 This simple YouTube to MP3/MP4 converter is a Python script that utilizes the following libraries:
 	
-This being my first GUI project, this was made on Windows.
+This being my first GUI project, this was made on Windows, and is designed for windows systems.
 After testing on macOS, the colors aren't consistent so some colors like the backgrounds and foregrounds of things blend in.
+Another huge issue is with macOS permissions, this program usually crashes on macOS when trying to run it
 If you have a solution feel free to contact me.
 
 - **SSL**
